@@ -1,9 +1,0 @@
-so to make this work you need a BIOS and a ROM, now legally i cant tell you where to get these or give them to you myself, so you are on your own
-
-but say you do have both, click files in the top right, and choose the right file for both, then click play
-and yeah, i had to make an entire .txt file just for this because i was an idiot and it took me waayy to long to do this
-
-what was the point of me doing this? to prove that MPS can't quell our spirits, me, a complete fool with no guide found and set this up, so even you can too
-we can spread Iodine like wildfire, and no one can stop us!
-
-also feel free to clone and use as you wish, the MD file even says so lol
